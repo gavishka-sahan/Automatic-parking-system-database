@@ -1,0 +1,21 @@
+Automated Parking System with full Database 
+
+This automatic parking system is a great opportunity for users to get a high level of 
+service. This makes it very easy to reserve a space for your vehicle. This automatic 
+system is designed with high technology and high security. The system works to 
+allocate suitable space according to the size of your vehicle. Unregistered 
+customers can register an account by providing their username, ID number and 
+other requirements.
+One grant advantage is that these parking spaces do not require drivers or vehicle 
+owners to be assigned and are managed by staff members. It also includes separate 
+functions to ensure that the system runs without errors.
+Registered customers have a unique ID. Customers can contact us if they have any 
+problems. The administrator is responsible for managing the activities of the entire system.
+
+In this project 
+1. Identify Requirements
+2.Design ER Diagram
+3.Design Relational schema
+4.SQL Queries to create the Database
+
+has been completed
